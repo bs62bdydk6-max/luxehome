@@ -1,29 +1,43 @@
-# Портфолио разработчика | Developer Portfolio
+Обо мне / About Me
+[RU]
 
-**[RU]**
-Привет! Меня зовут Владислав. Я начинающий разработчик, который ценит дисциплину и доводит идеи до работающих сервисов. Сейчас я активно осваиваю Python и Flask, чтобы создавать автоматизированные решения для бизнеса и медиа.
+Кто я такой
+Меня зовут Владислав. Я новичок в разработке, но за плечами уже есть опыт ведения YouTube-проектов и создания небольших веб-сервисов. Сейчас я активно осваиваю Python и Flask. Я не просто смотрю теорию, а сразу перехожу к практике: свои проекты я собрал и запустил самостоятельно, пройдя путь от первой строчки кода до рабочего сайта в сети.
 
-### Мои действующие проекты:
-*   **LUXEHOME** — Магазин мебели премиум-класса. Проект на Flask с адаптивной версткой и корзиной.
-    *   [👉 Открыть магазин](https://luxehome-f0it.onrender.com)
-*   **Цифровые подарки** — Интерактивный поздравительный сайт (прототип моей будущей фабрики подарков).
-    *   [👉 Посмотреть сайт](https://ilovemilanavonuchka.netlify.app)
+Мои живые проекты:
+LUXEHOME — Магазин мебели на Flask. Мой основной технический проект.
 
-### Обо мне:
-*   **Цель:** Ищу стажировку или позицию Junior-разработчика для получения реального опыта в команде.
-*   **Навыки:** Python, Flask, HTML/CSS (Tailwind), работа с Git и развертывание сайтов (Render, Netlify).
-*   **Подход:** Не боюсь рутины, быстро учусь на практике и всегда ориентируюсь на результат.
+Ссылка: https://luxehome-nj4v.onrender.com/
 
----
+Digital Gifts — Интерактивный сайт для моей внучки Миланы (прототип "фабрики подарков").
 
-**[EN]**
-Hi! I'm Vladislav, an aspiring developer focused on building functional web services and automation tools. 
+Ссылка: https://ilovemilanavonuchka.netlify.app
 
-### Live Projects:
-*   **LUXEHOME** — A premium furniture store prototype built with Python and Flask.
-    *   [👉 View Live Demo](https://luxehome-f0it.onrender.com)
-*   **Digital Gifts** — An interactive celebratory website (prototype for a digital gift service).
-    *   [👉 View Live Demo](https://ilovemilanavonuchka.netlify.app)
+Моя цель
+Ищу возможность начать нормальную практику в реальной команде или под руководством опытного наставника. Готов брать на себя рутинные задачи, копаться в коде и быстро учиться. Моя цель — вырасти в крепкого разработчика и развивать свои проекты в сфере автоматизации медиа (канал «Стальной характер») и цифровых сервисов.
 
-### Career Goals:
-I am seeking an internship or a Junior Developer role to apply my skills in a professional environment. I am disciplined, result-oriented, and ready to learn fast.
+Что я уже умею:
+Backend: Базовая логика на Python и Flask.
+
+Frontend: Верстка на Tailwind CSS, работа с интерактивными элементами (3D-эффекты, корзина).
+
+Инструменты: Работа в VS Code, управление репозиториями на GitHub, деплой на Render и Netlify.
+
+Характер: Дисциплина и упорство. Если за что-то берусь — довожу до работающего результата.
+
+[EN]
+
+Intro
+My name is Vladislav. I am a beginner developer with a background in managing YouTube projects and building small web services. Currently, I am focused on mastering Python and Flask. I believe in learning by doing: I built and deployed these projects from scratch.
+
+Live Projects:
+LUXEHOME — Furniture online store built with Flask.
+
+Link: https://luxehome-nj4v.onrender.com/
+
+Digital Gifts — A celebratory site for my granddaughter (Gift Factory prototype).
+
+Link: https://ilovemilanavonuchka.netlify.app
+
+My Goal
+I am looking for an internship or a junior position to start professional practice in a real team. I am ready to handle routine tasks, dive deep into the code, and learn fast. My ultimate goal is to become a strong developer and build my own automation-focused digital services
